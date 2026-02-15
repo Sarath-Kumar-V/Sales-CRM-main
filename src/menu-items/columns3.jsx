@@ -12,7 +12,7 @@ export const COLUMNS3 = ({ onEdit, onDelete }) => [
       </div>
     )
   },
-  {-
+  {
     Header: 'Employee ID',
     accessor: 'employeeId',
   },
